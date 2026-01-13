@@ -1,0 +1,5 @@
+{
+  "name": "Bracket Master - Deploy",
+  "description": "A professional tournament bracket generator. Create teams, drag-and-drop them into slots, and manage match results with an interactive UI.",
+  "requestFramePermissions": []
+}
